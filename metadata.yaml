@@ -1,0 +1,31 @@
+_repo: Hugh-Wynne-Free-Quaker--13-Sometime-Brevet-Lieutenant-Colonel-on-the-Staff-of-his-Excellency-G__6485
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitchell, S. Weir (Silas Weir)
+    aliases:
+    - Mitchell, Weir
+    - Mitchell, Silas Weir
+    birthdate: 1829
+    deathdate: 1914
+    gutenberg_agent_id: '357'
+    url: http://www.gutenberg.org/2009/agents/357
+    wikipedia: http://en.wikipedia.org/wiki/Silas_Weir_Mitchell
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Quakers -- Fiction'
+- GITenberg
+title: "Hugh Wynne, Free Quaker\r\nSometime Brevet Lieutenant-Colonel on the Staff\
+  \ of his Excellency General Washington"
+url: http://www.gutenberg.org/ebooks/6485
